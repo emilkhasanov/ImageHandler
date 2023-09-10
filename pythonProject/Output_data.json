@@ -1,0 +1,29 @@
+{
+    "std_assert": {
+        "ex_res_std": 10,
+        "act_res_std": 0,
+        "assertion_std": "invalid_std"
+    }
+}
+{
+    "disp_assert": {
+        "ex_res_disp": 10,
+        "act_res_disp": 0,
+        "assertion_disp": "invalid_disp"
+    }
+}
+{
+    "coord_assert": {
+        "ex_coord": [
+            0,
+            0
+        ],
+        "act_coord": [
+            2,
+            10,
+            221,
+            166
+        ],
+        "assertion_coord": "invalid_coord"
+    }
+}
